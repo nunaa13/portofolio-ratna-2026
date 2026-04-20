@@ -19,8 +19,8 @@ export default function ProyekPage() {
       period: "Feb - Jul 2025",
       img: "/projects/project2.jpeg",
       desc: [
-        "Proyek ini mengajarkan saya pentingnya mendengar. Saya turun langsung menemui perawat dan admin untuk memahami kenapa sistem lama mereka terasa lambat.",
-        "Hasilnya, saya merancang solusi rekam medis digital yang lebih ringkas. Fokus saya adalah membuat pekerjaan mereka lebih cepat dan pasien tidak perlu menunggu terlalu lama."
+        "Proyek ini mengajarkan saya pentingnya mendengar. Saya bersama teman-teman saya turun langsung menemui perawat dan admin untuk memahami kenapa sistem lama mereka terasa lambat.",
+        "Hasilnya, kami merancang solusi rekam medis digital yang lebih ringkas. Fokus saya adalah membuat pekerjaan mereka lebih cepat dan pasien tidak perlu menunggu terlalu lama."
       ]
     },
     {
@@ -29,8 +29,8 @@ export default function ProyekPage() {
       period: "Agu - Jan 2026",
       img: "/projects/muara2.jpeg",
       desc: [
-        "Membangun chatbot bukan cuma soal kecerdasan buatan, tapi soal bagaimana data riset yang rumit bisa dipahami pengguna dengan mudah melalui percakapan.",
-        "Saya menyusun struktur data di balik layar agar AI ini memberikan jawaban yang tepat sasaran dan tetap valid sesuai dengan standar riset universitas."
+        "Dalam proyek tim ini, saya bersama rekan pengembang merancang fondasi awal bagaimana chatbot ini harus berinteraksi. Fokus utama kami adalah memastikan chatbot mampu menyajikan data riset yang kompleks dengan cara yang mudah dimengerti.",
+        " Kontribusi spesifik saya dalam diskusi tim adalah membantu memetakan logika percakapan dan mendokumentasikan kebutuhan data, sehingga tim pengembang memiliki panduan yang jelas saat masuk ke tahap implementasi teknis."
       ]
     }
   ];
