@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Portofolio Ratna Nur Aenillah",
-  description: "Portofolio digital Ratna Nur Aenillah.",
+  description: "Portofolio digital Ratna Nur Aeni Fillah.",
 };
 
 export default function RootLayout({ children }) {
